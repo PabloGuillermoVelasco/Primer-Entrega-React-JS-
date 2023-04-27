@@ -1,0 +1,18 @@
+.bienvenida{
+    background-image: url('../src/assets/bienvenida.jpeg');
+    height: 470px;
+}
+
+@font-face{
+    font-family: philomeneOne;
+    src: url(./fonts/ChauPhilomeneOne-Regular.ttf);
+}
+
+.philomene{
+    font-family: philomeneOne;
+    font-size: 60px;
+}
+
+.roundedLogo{
+    border-radius: 10px;
+}
